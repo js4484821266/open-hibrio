@@ -1,3 +1,4 @@
+(still under construction)
 # 001. 읽는 법
 언어를 배우는데 가장 기본이라 함은 단연코 읽는 법이지요. 일단 히브리 문자의 기본 특성에 대해 얘기하겠습니다.
 ## 특징
@@ -14,5 +15,3 @@
 1. [자음](./01.consonants.md)
 2. [모음 및 기타 부호](./02.diacritics.md)
 3. [철자법](./03.spelling.md)
-
-(still under construction)
