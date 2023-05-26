@@ -13,5 +13,6 @@
 ## 구성
 1. [자음](./01.consonants.md)
 2. [모음 및 기타 부호](./02.diacritics.md)
+3. [철자법](./03.spelling.md)
 
 (still under construction)
