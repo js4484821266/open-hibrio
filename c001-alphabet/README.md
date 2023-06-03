@@ -14,5 +14,4 @@
 1. [자음](./01.consonants.md)
 2. [모음 및 기타 부호](./02.diacritics.md)
 3. [철자법](./03.spelling.md)
-4. [자주 나오는 배열](./04.patterns.md)
 5. [실습](./99.practice.md)
