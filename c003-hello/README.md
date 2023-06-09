@@ -5,12 +5,13 @@
 초점을 맞췄습니다. 기초이니 만큼 굴절이 규칙적인
 동사를 위주로 다룹니다.
 ## 구성
-1. [인칭대명사](01.kinuyei.guf.md)
-2. [지시대명사](02.kinuyei.remez.md)
-3. [동사의 종류](03.binyanim.md)
-4. [현재형 및 형용사](04.hove.vetoarim.md)
-5. [전치사](05.milim.yachas.md)
-6. ...
+1. [인칭대명사](persons.md)
+2. [지시대명사](demonstratives.md)
+3. [동사의 종류](stems.md)
+4. [현재형과 형용사](predicatives.md)
+5. [명사의 활용과 연쇄](noun.chain.md)
+6. [전치사와 그 굴절](prepositions.md)
+7. ...
 ### 동사를 빨리 배우는 이유
 사실 처음에는 명사 활용의 기초를 설명하려
 했습니다. 그러나 명사에는 분사, 즉 동사의 형용사형을
