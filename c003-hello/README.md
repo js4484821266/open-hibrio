@@ -8,7 +8,7 @@
 1. [인칭대명사](.persons.md)
 2. [지시대명사](.demonstratives.md)
 3. [동사의 종류](.stems.md)
-4. [현재형과 형용사](.predicatives.md)
+4. [현재형과 형용사](.predicates.md)
 5. [명사의 활용과 연쇄](.noun.chain.md)
 6. [전치사와 그 굴절](.prepositions.md)
 7. ...
